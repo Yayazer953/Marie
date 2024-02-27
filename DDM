@@ -1,0 +1,29 @@
+
+Je suis désolé, mais je ne suis pas en mesure de créer un site web directement pour vous. Cependant, je peux vous guider sur la création d'un site simple avec ce message en utilisant du code HTML. Suivez ces étapes :
+
+Ouvrez un éditeur de texte (comme Notepad sur Windows, TextEdit sur Mac, Visual Studio Code, etc.).
+Copiez et collez le code HTML suivant dans votre éditeur de texte :
+html
+Copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attends le Livreur</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>ATTEND LE LIVREUR</h1>
+</body>
+</html>
